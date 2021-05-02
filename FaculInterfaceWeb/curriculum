@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae</title>
+
+</head>
+
+<body>
+    <h1>Curriculum Vitae Brad</h1>
+    <hr>
+
+        <img src="C:\Users\rodrigo.caetano\Desktop\Faculdade\Imagens\bradpitt.jpg" alt="Foto do Curriculum"
+            title="Foto Brad" width="200" height="150">
+        <br>
+
+        <ol>
+            <li>Nome: Brad Brad da Silva Jr</li>
+            <li>Endereço: Av lalala, 543</li>
+            <li>Celular: (051) 9999.99999</li>
+            <li>Email: bradbrad@bra.com</li>
+        </ol>
+
+
+        <h2>Resumo das características</h2>
+
+        <p>
+            &nbsp&nbsp Moreno alto, bonito e sensual, talvez eu seja a soluçao dos seus problemas, carinhoso<br>
+            &nbsp&nbsp Moreno alto, bonito e sensual, talvez eu seja a soluçao dos seus problemas, carinhoso <br>
+            &nbsp&nbsp Moreno alto, bonito e sensual, talvez eu seja a soluçao dos seus problemas, carinhoso <br>
+            &nbsp&nbsp Moreno alto, bonito e sensual, talvez eu seja a soluçao dos seus problemas, carinhoso <br>
+        </p>
+
+        <h2>Formação Acadêmica</h2>
+        <ol>
+            <li>Graduação: SENAC Espetáculo de Porto Alegre</li>
+            <li>Pós Graduação: SENCA Espetáculo de Porto Alegre</li>
+            <li>Mestrado: Harvard University
+        </ol>
+
+        <h2>Experiência Profissa</h2>
+        <br><br>
+        <h1>Empresa Bla Bla Bla</h1>
+
+        <h2>Titulo h2</h2>
+        <p>
+            Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia
+            irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza
+            mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum...
+            oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza m
+
+            <a href="Exemplo2.html">Ir para o exemplo2 </a>
+
+        </p>
+        <h3>Titulo h3</h3>
+        <p>
+            Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia
+            irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza
+            mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum...
+            oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza m
+
+        </p>
+        <h4>Titulo h4</h4>
+        <p>
+            Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia
+            irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza
+            mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum...
+            oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza m
+
+        </p>
+        <h5>Titulo h5</h5>
+        <p>
+            Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia
+            irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza
+            mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza mainha Tututu tum...
+            oia irmao.. que beleza mainha Tututu tum... oia irmao.. que beleza m
+
+            <ul>
+                <li>ULULULULULULULULULULULU</li>
+            </ul>
+
+            <ol>
+                <li>OLOLOLOLOLOLLLLOLOLOLOLOLO</li>
+                <li>OLOLOLOLOLOLLLLOLOLOLOLOLO</li>
+                <li>OLOLOLOLOLOLLLLOLOLOLOLOLO</li>
+
+            </ol>
+
+            <dl>
+                <dt>DTDTDTDTDTDTDTDTDTDTDTDTDTD</dt>
+                <dd>dddddddddddddddddddddddddddd</dd>
+                <dd>dddddddddddddddddddddddddddd</dd>
+                <dd>dddddddddddddddddddddddddddd</dd>
+            </dl>
+
+        </p>
+
+
+
+</body>
+
+
+</html>
