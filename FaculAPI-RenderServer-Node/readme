@@ -1,0 +1,27 @@
+Babel para import/expor para Require e export
+Webpack, todas as mudanças nos arquivos de desenvolvimento
+Bundle_server.js - arquivo Node usado pra executar o backEnd
+NodeMon, toda vez que o arquivo é alterado ele starta o serviço novamente
+
+Separando dependencias de desenvolvimento e dependencias de produção
+
+npm init
+npm install --save-dev nodemon webpack-cli webpack @babel/core @babel/cli @babel/preset-react
+PARA PRODUÇÃO
+npm install --save react react-dom express
+npm install --save-dev babel-loader
+npm i --save-dev webpack-node-externals
+npx webpack --config webpack.server.js (gerar o bundle_server.js)
+npx webpack --config webpack.server.js --watch (olhando as mudanças)
+npx nodemon dist/bundle_server.js
+npm i --save-dev npm-run-all (permitirá execução em paralelo) desta forma poderemos iniciar o desenvolvimento da aplicação sem preocupação de ficar fechando conexão conectando novamente para atualizar a cada linha de código implementada
+
+NA LINHA SCRIPT PACKAGE.JSON é possível criar atalhos de execução de comandos
+ao especificar
+"webpack:server": "webpack --config webpack.server.js --watch", NO SCRIPT
+bastará digitar
+npm run webpack:server
+
+import reactDOm para injetar os componentes na página direto
+npm i --save axios (biblioteca para facilitar os request via back)
+npx webpack --config webpack.config.js
