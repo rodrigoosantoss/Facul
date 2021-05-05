@@ -1,15 +1,24 @@
+
+------------------------
+EXPLANAÇÃO DO PROJETO
+------------------------
+Renderização parte no back parte no front...
+
 Client.js (executado pelo browser)
 Server.js (backEnd)
 
 Express pra fazer as rotas...
 
-Babel para import/expor para Require e export (os imports sao diferentes no node)
-Webpack, todas as mudanças nos arquivos de desenvolvimento (gerando um arquivo so Bundle_Client - sera linkado no index)
-Bundle_server.js - arquivo Node usado pra executar o backEnd (node rodará em cima desse)
-NodeMon, toda vez que o arquivo é alterado ele starta o serviço novamente.. automaticamente..
+Mesmo componente consumido no front sera utilizado no back...
 
+Babel transpilar JSX para JS para import/expor para Require e export (os imports sao diferentes no node)
+Webpack, gera um unico arquivo(gerando um arquivo so Bundle_Client - sera linkado no index), observando os arquivo de desenvolvimento (com o watch)
+Bundle_server.js - arquivo Node usado pra executar o backEnd (node rodará em cima desse arquivo)
+NodeMon, toda vez que o arquivo é alterado ele REstarta o serviço novamente.. automaticamente..
 
-
+------------------------
+INICIANDO O TRABALHO
+------------------------
 npm init
 npm install --save-dev nodemon webpack-cli webpack @babel/core @babel/cli @babel/preset-react
 PARA PRODUÇÃO
