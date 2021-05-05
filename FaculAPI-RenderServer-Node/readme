@@ -1,9 +1,14 @@
-Babel para import/expor para Require e export
-Webpack, todas as mudanças nos arquivos de desenvolvimento
-Bundle_server.js - arquivo Node usado pra executar o backEnd
-NodeMon, toda vez que o arquivo é alterado ele starta o serviço novamente
+Client.js (executado pelo browser)
+Server.js (backEnd)
 
-Separando dependencias de desenvolvimento e dependencias de produção
+Express pra fazer as rotas...
+
+Babel para import/expor para Require e export (os imports sao diferentes no node)
+Webpack, todas as mudanças nos arquivos de desenvolvimento (gerando um arquivo so Bundle_Client - sera linkado no index)
+Bundle_server.js - arquivo Node usado pra executar o backEnd (node rodará em cima desse)
+NodeMon, toda vez que o arquivo é alterado ele starta o serviço novamente.. automaticamente..
+
+
 
 npm init
 npm install --save-dev nodemon webpack-cli webpack @babel/core @babel/cli @babel/preset-react
